@@ -1,0 +1,11 @@
+C:\Users\danam\source\repos\A26 Ex05 DanaMund 319126074 IliaGrigorian 327576229\Ex05\bin\Debug\Ex05 Dana 319126074 Ilia 327576229.exe.config
+C:\Users\danam\source\repos\A26 Ex05 DanaMund 319126074 IliaGrigorian 327576229\Ex05\bin\Debug\Ex05 Dana 319126074 Ilia 327576229.exe
+C:\Users\danam\source\repos\A26 Ex05 DanaMund 319126074 IliaGrigorian 327576229\Ex05\bin\Debug\Ex05 Dana 319126074 Ilia 327576229.pdb
+C:\Users\danam\source\repos\A26 Ex05 DanaMund 319126074 IliaGrigorian 327576229\Ex05\obj\Debug\Ex05.csproj.AssemblyReference.cache
+C:\Users\danam\source\repos\A26 Ex05 DanaMund 319126074 IliaGrigorian 327576229\Ex05\obj\Debug\Ex05_Ilia_327576229_Dana_319126074.FormGame.resources
+C:\Users\danam\source\repos\A26 Ex05 DanaMund 319126074 IliaGrigorian 327576229\Ex05\obj\Debug\Ex05_Ilia_327576229_Dana_319126074.FormSettings.resources
+C:\Users\danam\source\repos\A26 Ex05 DanaMund 319126074 IliaGrigorian 327576229\Ex05\obj\Debug\Ex05_Dana_319126074_Ilia_327576229.Properties.Resources.resources
+C:\Users\danam\source\repos\A26 Ex05 DanaMund 319126074 IliaGrigorian 327576229\Ex05\obj\Debug\Ex05.csproj.GenerateResource.cache
+C:\Users\danam\source\repos\A26 Ex05 DanaMund 319126074 IliaGrigorian 327576229\Ex05\obj\Debug\Ex05.csproj.CoreCompileInputs.cache
+C:\Users\danam\source\repos\A26 Ex05 DanaMund 319126074 IliaGrigorian 327576229\Ex05\obj\Debug\Ex05 Dana 319126074 Ilia 327576229.exe
+C:\Users\danam\source\repos\A26 Ex05 DanaMund 319126074 IliaGrigorian 327576229\Ex05\obj\Debug\Ex05 Dana 319126074 Ilia 327576229.pdb
